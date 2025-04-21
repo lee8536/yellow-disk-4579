@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "yellow-disk-4579",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "acee509c-19e5-449d-b02c-3d40361bbc03",
+      "database_name": "shiny-morning-43f4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
